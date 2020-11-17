@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I am Suyash Thakur 👋 :computer:
+![alt text](https://github.com/suyash-thakur/suyash-thakur/blob/main/b6cb4bdfda210a55fbf6c0d70b4a5a0af8891e10b39cdf69c4ac720f3c472fed.0.png)
 <!--
 **suyash-thakur/suyash-thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a computer sacience undergraduate who is passonate about using code to solve unconventional challenges. Some technologies I enjoy working with include Angular2+, NodeJS and REST API. Fork it until you make it. :sunglasses:
+
+### Find me around the web :earth_asia:
+  - Sharing updates on [LinkedIn](https://www.linkedin.com/in/suyash-thakur-06777016a/) :briefcase:
+  - Sharing memes on [Instagram](https://www.instagram.com/suyash_thakur99/) :camera_flash:
