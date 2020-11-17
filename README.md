@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a computer sacience undergraduate who is passonate about using code to solve unconventional challenges. Some technologies I enjoy working with include Angular2+, NodeJS and REST API. Fork it until you make it. :sunglasses:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-thakur&hide=css,scss&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-thakur&hide=css,dockerfile&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me around the web :earth_asia:
   - Sharing updates on [LinkedIn](https://www.linkedin.com/in/suyash-thakur-06777016a/) :briefcase:
