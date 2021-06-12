@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a computer sacience undergraduate who is passonate about using code to solve unconventional challenges. Some technologies I enjoy working with include Angular2+, NodeJS and REST API. Fork it until you make it. :sunglasses:
+I am a computer science undergraduate who is passonate about using code to solve unconventional challenges. Some technologies I enjoy working with include Angular2+, NodeJS and REST API. Fork it until you make it. :sunglasses:
 
 
 ### Github Stats
