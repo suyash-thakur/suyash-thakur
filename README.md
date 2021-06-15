@@ -18,8 +18,8 @@ I am a computer science undergraduate who is passonate about using code to solve
 
 
 ### Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-thakur&hide=css,dockerfile&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyash-thakur&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-thakur&hide=css,dockerfile&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me around the web :earth_asia:
   - Sharing updates on [LinkedIn](https://www.linkedin.com/in/suyash-thakur-06777016a/) :briefcase:
