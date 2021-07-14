@@ -23,6 +23,13 @@ I am a computer science undergraduate who is passonate about using code to solve
 
 ### Weekly Stats
 <!--START_SECTION:waka-->
+```text
+HTML         9 hrs 17 mins   █████████████▒░░░░░░░░░░░   52.78 % 
+JavaScript   3 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+TypeScript   2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+CSS          56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JSON         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
