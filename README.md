@@ -21,6 +21,10 @@ I am a computer science undergraduate who is passonate about using code to solve
 ![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyash-thakur&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-thakur&hide=css,dockerfile&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Weekly Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Find me around the web :earth_asia:
   - Sharing updates on [LinkedIn](https://www.linkedin.com/in/suyash-thakur-06777016a/) :briefcase:
   - Sharing memes on [Instagram](https://www.instagram.com/suyash_thakur99/) :camera_flash:
