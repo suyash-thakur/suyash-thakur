@@ -26,7 +26,7 @@ I am a computer science undergraduate who is passonate about using code to solve
 ### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2021 - 08 October, 2021
+Week: 03 October, 2021 - 09 October, 2021
 
 JavaScript   6 hrs 21 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.45 % 
 JSON         1 hr 25 mins    ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.58 % 
