@@ -26,7 +26,9 @@ I am a computer science undergraduate who is passonate about using code to solve
 ### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 13 February, 2022 - To: 20 February, 2022
+
+Other        1 hr            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.11 % 
 ```
 <!--END_SECTION:waka-->
 
