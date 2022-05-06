@@ -27,10 +27,10 @@ I am a computer science undergraduate who is passonate about using code to solve
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
+From: 28 April 2022 - To: 05 May 2022
 
-JavaScript   6 hrs 51 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀   92.91 %
-Other        30 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.78 %
+JavaScript   10 hrs 24 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀   91.07 %
+Other        1 hr            ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.75 %
 ```
 
 <!--END_SECTION:waka-->
