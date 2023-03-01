@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a computer science undergraduate who is passonate about using code to solve unconventional challenges. Some technologies I enjoy working with include Angular2+, NodeJS and REST API. Fork it until you make it. :sunglasses:
+I am a backend developer who is passonate about using code to solve unconventional challenges. Some technologies I enjoy working with include NodeJS, Docker, Nginx and Postgres. Fork it until you make it. :sunglasses:
 
 
 ### Github Stats
@@ -45,5 +45,5 @@ JSON                       40 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://simpleicons.org/icons/angular.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://simpleicons.org/icons/java.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://simpleicons.org/icons/angular.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://simpleicons.org/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
