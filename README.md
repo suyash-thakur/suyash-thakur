@@ -41,7 +41,7 @@ Other        2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### Find me around the web :earth_asia:
   - Sharing updates on [LinkedIn](https://www.linkedin.com/in/suyash-thakur-06777016a/) :briefcase:
-  - Sharing memes on [Instagram](https://www.instagram.com/suyash_thakur99/) :camera_flash:
+  - Sharing blogs on [Hashnode](https://suyashthakurblog.hashnode.dev/) 📝
   
   
 <h3 align="left">Languages and Tools:</h3>
