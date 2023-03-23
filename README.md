@@ -23,7 +23,6 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
-### Weekly Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C330%20hrs%2050%20mins-blue)
 
