@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a backend developer who is passonate about using code to solve unconventional challenges. Some technologies I enjoy working with include NodeJS, Docker, Nginx and Postgres. Fork it until you make it. :sunglasses:
+I'm a passionate backend developer who loves using code to tackle unconventional challenges. I have experience working with technologies such as NodeJS, Redis, Docker, Nginx, and Postgres. My approach to coding is to "fork it until you make it", which means I am always eager to explore and learn new things. If you're looking for a skilled developer who can help you solve complex problems with elegant solutions, I'm your person. Let's connect and make something great together! 😎
 
 
 ### Github Stats
