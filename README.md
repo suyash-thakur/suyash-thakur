@@ -24,7 +24,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
@@ -32,7 +32,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 
 > 📦 674.8 kB Used in GitHub's Storage 
  > 
-> 🏆 304 Contributions in the Year 2023
+> 🏆 305 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,7 +45,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 ```text
 🌞 Morning                1993 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 🌆 Daytime                11662 commits       █████████░░░░░░░░░░░░░░░░   34.19 % 
-🌃 Evening                16508 commits       ████████████░░░░░░░░░░░░░   48.40 % 
+🌃 Evening                16509 commits       ████████████░░░░░░░░░░░░░   48.40 % 
 🌙 Night                  3947 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -57,7 +57,7 @@ Wednesday                6983 commits        █████░░░░░░�
 Thursday                 6160 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 Friday                   4847 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Saturday                 1876 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Sunday                   1862 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Sunday                   1863 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 
 
@@ -92,12 +92,8 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/suyash-thakur/suyash-thakur/main/assets/bar_graph.png)
-
-
- Last Updated on 02/04/2023 00:25:38 UTC
+ Last Updated on 02/04/2023 18:17:24 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
