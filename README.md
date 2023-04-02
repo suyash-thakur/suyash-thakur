@@ -24,7 +24,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
@@ -32,7 +32,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 
 > 📦 674.8 kB Used in GitHub's Storage 
  > 
-> 🏆 303 Contributions in the Year 2023
+> 🏆 304 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,7 +46,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 🌞 Morning                1993 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 🌆 Daytime                11662 commits       █████████░░░░░░░░░░░░░░░░   34.19 % 
 🌃 Evening                16508 commits       ████████████░░░░░░░░░░░░░   48.40 % 
-🌙 Night                  3946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌙 Night                  3947 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -57,7 +57,7 @@ Wednesday                6983 commits        █████░░░░░░�
 Thursday                 6160 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 Friday                   4847 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Saturday                 1876 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Sunday                   1861 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Sunday                   1862 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 
 
@@ -67,17 +67,17 @@ Sunday                   1861 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               19 hrs 43 mins      ████████████████░░░░░░░░░   65.81 % 
-HTML                     7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-EJS                      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-CSS                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JavaScript               19 hrs 48 mins      ████████████████████░░░░░   80.27 % 
+HTML                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+EJS                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+CSS                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +97,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/suyash-thakur/suyash-thakur/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2023 00:25:04 UTC
+ Last Updated on 02/04/2023 00:25:38 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
