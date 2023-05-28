@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 I'm a passionate backend developer who loves using code to tackle unconventional challenges. I have experience working with technologies such as NodeJS, Redis, Docker, Nginx, and Postgres. My approach to coding is to "fork it until you make it", which means I am always eager to explore and learn new things. If you're looking for a skilled developer who can help you solve complex problems with elegant solutions, I'm your person. Let's connect and make something great together! 😎
 
 
-### Github Stats
-![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyash-thakur&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-thakur&hide=css,dockerfile&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
