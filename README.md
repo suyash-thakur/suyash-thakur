@@ -22,15 +22,15 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C515%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 675.1 kB Used in GitHub's Storage 
  > 
-> 🏆 491 Contributions in the Year 2023
+> 🏆 496 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,10 +41,10 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2305 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-🌆 Daytime                14069 commits       █████████░░░░░░░░░░░░░░░░   35.49 % 
-🌃 Evening                19114 commits       ████████████░░░░░░░░░░░░░   48.22 % 
-🌙 Night                  4149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+🌞 Morning                2405 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+🌆 Daytime                14869 commits       █████████░░░░░░░░░░░░░░░░   35.89 % 
+🌃 Evening                19956 commits       ████████████░░░░░░░░░░░░░   48.17 % 
+🌙 Night                  4194 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 ```
 
 
@@ -54,21 +54,20 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 hrs              ███████████████████████░░   93.70 % 
-Vue.js                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               12 hrs 9 mins       ███████████████████████░░   93.99 % 
+Vue.js                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/05/2023 00:26:16 UTC
+ Last Updated on 01/06/2023 00:31:52 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
