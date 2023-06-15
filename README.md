@@ -24,27 +24,27 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C562%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 675.1 kB Used in GitHub's Storage 
+> 📦 675.2 kB Used in GitHub's Storage 
  > 
-> 🏆 539 Contributions in the Year 2023
+> 🏆 547 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 49 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2324 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-🌆 Daytime                14164 commits       █████████░░░░░░░░░░░░░░░░   35.56 % 
-🌃 Evening                19176 commits       ████████████░░░░░░░░░░░░░   48.14 % 
-🌙 Night                  4169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+🌞 Morning                2270 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+🌆 Daytime                13754 commits       █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌃 Evening                18747 commits       ████████████░░░░░░░░░░░░░   48.17 % 
+🌙 Night                  4148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 ```
 
 
@@ -54,17 +54,23 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               15 hrs 6 mins       █████████████████████████   100.00 % 
+JavaScript               17 hrs 15 mins      ███████████████████████░░   91.88 % 
+Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 2 mins       ████████████████████████░   96.01 % 
+Google Calendar          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Mac                      15 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      18 hrs 2 mins       ████████████████████████░   96.01 % 
+Unknown OS               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 
 
- Last Updated on 14/06/2023 00:28:08 UTC
+ Last Updated on 15/06/2023 00:27:21 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
