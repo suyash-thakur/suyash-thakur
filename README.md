@@ -22,31 +22,9 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 736.2 kB Used in GitHub's Storage 
- > 
-> 🏆 949 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 52 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3018 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-🌆 Daytime                18733 commits       █████████░░░░░░░░░░░░░░░░   37.53 % 
-🌃 Evening                23645 commits       ████████████░░░░░░░░░░░░░   47.36 % 
-🌙 Night                  4525 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -68,7 +46,7 @@ Mac                      7 hrs 16 mins       ███████████�
 ```
 
 
- Last Updated on 05/10/2023 00:26:17 UTC
+ Last Updated on 05/10/2023 19:49:06 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
