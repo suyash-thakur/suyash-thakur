@@ -24,7 +24,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%2023%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,18 +32,18 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 55 mins       █████████████████████████   99.59 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+JavaScript               5 hrs 59 mins       █████████████████████████   99.67 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/10/2023 00:25:51 UTC
+ Last Updated on 07/10/2023 00:26:28 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
