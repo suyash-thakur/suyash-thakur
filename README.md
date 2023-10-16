@@ -22,7 +22,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C900%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
 
@@ -46,7 +46,7 @@ Mac                      8 hrs 24 mins       ███████████�
 ```
 
 
- Last Updated on 15/10/2023 00:27:55 UTC
+ Last Updated on 16/10/2023 00:26:58 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
