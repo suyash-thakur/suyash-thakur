@@ -22,7 +22,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C924%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
 
@@ -32,21 +32,21 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               9 hrs 17 mins       ████████████████░░░░░░░░░   63.45 % 
-Svelte                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Vue.js                   1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Go                       58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-EJS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+JavaScript               8 hrs 44 mins       ███████████████░░░░░░░░░░   58.46 % 
+Svelte                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Vue.js                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Go                       58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+EJS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/10/2023 00:25:39 UTC
+ Last Updated on 27/10/2023 00:25:29 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
