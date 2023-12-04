@@ -22,7 +22,7 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C012%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C015%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
 
@@ -32,22 +32,22 @@ I'm a passionate backend developer who loves using code to tackle unconventional
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 54 mins       ███████████████░░░░░░░░░░   58.10 % 
-Svelte                   1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Vue.js                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+JavaScript               8 hrs 2 mins        ███████████████░░░░░░░░░░   58.46 % 
+Svelte                   1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Vue.js                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+HTML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 6 mins       ████████████████████████░   96.33 % 
-Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+VS Code                  13 hrs 14 mins      ████████████████████████░   96.36 % 
+Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Mac                      13 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/12/2023 00:28:51 UTC
+ Last Updated on 04/12/2023 00:28:05 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
