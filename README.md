@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C015%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C027%20hrs%2029%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,22 +33,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 hrs 56 mins      █████████████████░░░░░░░░   68.26 % 
-Svelte                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JavaScript               17 hrs 7 mins       █████████████████░░░░░░░░   66.48 % 
+Markdown                 2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Vue.js                   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Svelte                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 47 mins      ████████████████████████░   96.96 % 
-Neovim                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+VS Code                  24 hrs 56 mins      ████████████████████████░   96.88 % 
+Neovim                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Mac                      20 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/12/2023 00:28:10 UTC
+ Last Updated on 06/12/2023 00:27:59 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
