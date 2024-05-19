@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C434%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C437%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.5%20million%20lines%20of%20code-blue)
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               10 hrs 25 mins      ██████████████████░░░░░░░   72.38 % 
+JavaScript               10 hrs 25 mins      ██████████████████░░░░░░░   72.36 % 
 Python                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 Vue.js                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
@@ -47,7 +47,7 @@ Mac                      14 hrs 24 mins      ███████████�
 ```
 
 
- Last Updated on 18/05/2024 00:27:15 UTC
+ Last Updated on 19/05/2024 00:29:28 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
