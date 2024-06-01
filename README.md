@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C462%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C467%20hrs%2046%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,21 +33,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               15 hrs 33 mins      █████████████████████░░░░   82.39 % 
-Vue.js                   2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-EJS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JavaScript               16 hrs 15 mins      ███████████████████░░░░░░   76.52 % 
+Vue.js                   3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+EJS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/05/2024 00:29:56 UTC
+ Last Updated on 01/06/2024 00:29:16 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
