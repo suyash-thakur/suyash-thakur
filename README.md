@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C567%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C574%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,21 +33,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               9 hrs 57 mins       ██████████████████░░░░░░░   72.11 % 
-Svelte                   3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JavaScript               8 hrs 46 mins       █████████████████░░░░░░░░   67.09 % 
+Svelte                   3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2024 00:32:43 UTC
+ Last Updated on 12/07/2024 00:29:38 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
