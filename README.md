@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C688%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C690%20hrs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,21 +33,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 hrs              ██████████████████████░░░   86.73 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Svelte                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Vue.js                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JavaScript               7 hrs 41 mins       ███████████████████████░░   90.80 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+EJS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/08/2024 00:31:19 UTC
+ Last Updated on 21/08/2024 00:30:36 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
