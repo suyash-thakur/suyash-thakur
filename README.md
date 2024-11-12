@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C897%20hrs%2032%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,21 +33,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               23 hrs 18 mins      ████████████████████████░   94.91 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               23 hrs 21 mins      ████████████████████████░   94.94 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 Nginx configuration file 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Cursor                   24 hrs 33 mins      █████████████████████████   100.00 % 
+Cursor                   24 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/11/2024 00:36:26 UTC
+ Last Updated on 12/11/2024 00:37:45 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
