@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C103%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C103%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.4%20million%20lines%20of%20code-blue)
 
@@ -33,21 +33,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               17 hrs 17 mins      ██████████████████████░░░   89.64 % 
-Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-TypeScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+JavaScript               16 hrs 39 mins      ██████████████████████░░░   89.69 % 
+Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 Vue.js                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 17 mins      █████████████████████████   100.00 % 
+Cursor                   18 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/01/2025 00:38:58 UTC
+ Last Updated on 13/01/2025 00:40:00 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
