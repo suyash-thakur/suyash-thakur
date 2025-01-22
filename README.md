@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=suyash-thakur)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C136%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C142%20hrs%2041%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,7 +47,7 @@ Mac                      33 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 21/01/2025 00:35:37 UTC
+ Last Updated on 22/01/2025 00:37:00 UTC
 <!--END_SECTION:waka-->
 
 ### Find me around the web :earth_asia:
