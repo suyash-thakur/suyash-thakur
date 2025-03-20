@@ -60,7 +60,7 @@
   ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?style=for-the-badge&logo=elasticsearch&logoColor=005571&labelColor=000)
   
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=DevOps%20And20Tools&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=40&section=header&text=DevOps%20And%20Tools&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   <br>
   
   ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=000)
